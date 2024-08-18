@@ -40,9 +40,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JPA-CCCCCC?style=for-the-badge&logo=spring&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="25"> 
   <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/notion-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" height="25">
   <br>
 </div>
 <br>
